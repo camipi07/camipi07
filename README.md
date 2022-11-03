@@ -1,6 +1,6 @@
 ### Hi! I'm Camilo 👋
 
-I am a student of the M.Eng. in Telecommunication Engineering (Mention in Telematics 👨‍💻) at University of Vigo (Galicia, Spain). I am currently working at the Information Technology Group (GTI), part of atlanTTic, the Research Center for Telecommunication Technologies driven by the University of Vigo. I'm part of both full-stack development  projects and also research tasks related to Deep Learning for Natural Language Processing.
+I am a student of the M.Eng. in Telecommunication Engineering (Mention in Telematics 👨‍💻) at University of Vigo (Galicia, Spain). I am currently a Junior Engineer-Researcher at GRADIANT (Galician R&D Center in Advanced Telecommunications).
 
 My main interests are Machine/Deep Learning, Data Analysis and software development.
 
