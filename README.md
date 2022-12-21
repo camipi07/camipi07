@@ -4,7 +4,7 @@ I am a student of the M.Eng. in Telecommunication Engineering (Mention in Telema
 
 My main interests are Machine/Deep Learning, Data Analysis and software development.
 
-I invite you to take a look at my repos, which cover mainly my uni individual and group projects.
+I invite you to take a look at my repos, which cover mainly my university individual and group projects.
 
 <!--
 **camipi07/camipi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
