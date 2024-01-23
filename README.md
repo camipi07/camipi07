@@ -1,8 +1,8 @@
 ### Hi! I'm Camilo 👋
 
-I am a student of the M.Eng. in Telecommunication Engineering (Mention in Telematics 👨‍💻) at University of Vigo (Galicia, Spain). I am currently a Junior Engineer-Researcher at GRADIANT (Galician R&D Center in Advanced Telecommunications).
+I am a M.Eng. in Telecommunication Engineering (Mention in Telematics 👨‍💻) from University of Vigo (Galicia, Spain). I am currently working as a Reseacher-Engineer at GRADIANT (Galician R&D Center in Advanced Telecommunications).
 
-My main interests are Machine/Deep Learning, Data Analysis and software development.
+My main interests are Data Analytics, Applied Machine and Deep Learning and MLOps.
 
 I invite you to take a look at my repos, which cover mainly my university individual and group projects.
 
